@@ -333,6 +333,9 @@ header.stiky {
   justify-content: space-between;
   margin-bottom: 0.5rem;
 }
+.main-row h4 {
+  color: white;
+}
 
 .row h5 {
   font-size: 15px;
